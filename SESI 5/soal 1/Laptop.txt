@@ -1,0 +1,5 @@
+Acer,core 2,3500000
+Dell,core i3,5700000
+Hp,core i5,7800000
+Toshiba,core i3,5700000
+Asus,core i3,4000000
